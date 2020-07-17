@@ -1,4 +1,8 @@
-### Hi there 👋
+## malixsys
+
+- 🤔 for now, check out my profile [here](https://malix.io/)
+
+
 
 <!--
 **malixsys/malixsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
