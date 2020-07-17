@@ -1,6 +1,6 @@
 ## malixsys
 
-- 🤔 for now, check out my profile [here](https://malix.io/)
+> 🤔 I mostly code things... To find out more, check out my profile [here](https://malix.io/)...
 
 
 
