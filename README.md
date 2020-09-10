@@ -1,10 +1,10 @@
 ## malixsys
 
-#### 🤔 I mostly code things...
+> **I mostly code things for a living** 🤔
 
-##### To find out more, check out my profile at [malix.io](https://malix.io)...
+#### Check out my profile at **[malix.io](https://malix.io)**
 
-##### ... or try:
+> **If you are brave, try:**
 
 ```bash
 npx malix
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=malixsys&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
