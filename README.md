@@ -1,8 +1,14 @@
 ## malixsys
 
-> 🤔 I mostly code things... To find out more, check out my profile [here](https://malix.io/)...
+#### 🤔 I mostly code things...
 
+##### To find out more, check out my profile at [malix.io](https://malix.io)...
 
+##### ... or try:
+
+```bash
+npx malix
+```
 
 <!--
 **malixsys/malixsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
