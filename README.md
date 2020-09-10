@@ -1,8 +1,8 @@
-## malixsys
+## Abiout me
 
 > **I mostly code things for a living** 🤔
 
-#### Check out my profile at **[malix.io](https://malix.io)**
+#### Find out more:  **[malix.io](https://malix.io)**
 
 > **If you are brave, try:**
 
